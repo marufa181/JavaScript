@@ -7,3 +7,9 @@ function sleep(name,time) {
 sleep("Marufa", "10 PM"); // call the function
 sleep("Jahan", "8 PM"); 
 sleep("Ms.jahan", "9 PM"); 
+
+// define a function
+function myFunction(a,b){
+    return a * b;
+}
+let x = myFunction(5, 6);
